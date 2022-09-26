@@ -1,0 +1,20 @@
+# 1-297-Hours-Scene-Noise-Data-by-Voice-Recorder
+https://www.datatang.ai/datasets/178
+
+## Description
+Scene noise data, with a duration of 1,297 hours. The data covers multiple scenarios, including subways, supermarkets, restaurants, roads, etc.; audio is recorded using professional recorders, high sampling rate, dual-channel format collection; time and type of non-noise are annotated. this data set can be used for noise modeling.
+
+## Format
+44.1kHz, 16bit, wav, dual-channel
+
+## Environment
+noisy scenes including restaurant, supermarket, subway, road, exhibition hall, bus and street
+
+## Device
+Sony ICD-UX560F voice recorder
+
+## Application scenarios
+noise modelling
+
+## Annotation
+time point and type annotation for non-noise
