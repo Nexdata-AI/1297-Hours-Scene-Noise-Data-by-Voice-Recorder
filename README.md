@@ -4,7 +4,7 @@
 ## Description
 Scene noise data, with a duration of 1,297 hours. The data covers multiple scenarios, including subways, supermarkets, restaurants, roads, etc.; audio is recorded using professional recorders, high sampling rate, dual-channel format collection; time and type of non-noise are annotated. this data set can be used for noise modeling.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/178?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/178?source=Github
 
 
 ## Format
